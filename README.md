@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Fortunato</h1>
-<h3 align="center">A passionate software developer based in Ireland</h3>
+<h3 align="center">A passionate software developer based in Portugal 🇵🇹 </h3>
 
 - 🎓 I graduated in Data Analytics and Software Development from [CCT Dublin](https://www.cct.ie/).
 
-- 🌱 I’m currently exploring **Vue.js**.
+- 🌱 I’m currently working with **Vue.js**.
 
 - 👨‍💻 You can check out my projects at [https://lucasfortunato.com.br/](https://lucasfortunato.com.br/).
 
@@ -25,6 +25,7 @@
 
 ## Backend:
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 - ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
@@ -42,7 +43,6 @@
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ## Data Science & Machine Learning:
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 - ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
