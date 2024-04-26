@@ -3,7 +3,7 @@
 
 - 🎓 I graduated in Data Analytics and Software Development from [CCT Dublin](https://www.cct.ie/).
 
-- 🌱 I’m currently working with **Vue.js**.
+- 🌱 I’m currently working with **Vue.js** and **Django**.
 
 - 👨‍💻 You can check out my projects at [https://lucasfortunato.com.br/](https://lucasfortunato.com.br/).
 
