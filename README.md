@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Fortunato</h1>
-<h3 align="center">A passionate software developer based in Portugal 🇵🇹 </h3>
+<h3 align="center">A passionate software developer based in Brazil 🇧🇷 </h3>
 
 - 🎓 I graduated in Data Analytics and Software Development from [CCT Dublin](https://www.cct.ie/).
 
-- 🌱 I’m currently working with **Vue.js** and **Django**.
+- 🌱 I’m currently working with **Django**.
 
 - 👨‍💻 You can check out my projects at [https://lucasfortunato.com.br/](https://lucasfortunato.com.br/).
 
