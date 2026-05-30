@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Fortunato</h1>
-<h3 align="center">A passionate Back-End Developer & Founder of FortnuApp 🚀</h3>
+<h3 align="center">A passionate Back-End Developer & Founder of FortnuApps 🚀</h3>
 
 ## 💼 About Me:
 - 🔥 **Founder & Back-End Developer at [FortnuApp](https://lucasfortunato.com.br/)**  
